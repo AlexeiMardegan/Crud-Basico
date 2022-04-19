@@ -1,2 +1,2 @@
-# Exerc-cios
-Repositório em que devo botar as aulas do prof Emerson (devo atualizar)
+# phparray
+Pequeno sistema criado a partir de PHP, HTML5, Bootstrap, persistindo os dados em um array.
