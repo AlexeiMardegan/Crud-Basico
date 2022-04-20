@@ -1,6 +1,6 @@
 <?php
     $pos = $_GET['pos'];
-    $pos2 = $pos+2;
+    $pos2 = $pos+1;
     $pos3 = $pos2+1;
     $nome = $_POST['nome'];
     $idade = $_POST['idade'];
