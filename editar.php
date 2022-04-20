@@ -18,7 +18,7 @@
     fclose($arquivo);
     ?>
     <center>
-        <h3 id="h3">SisArray - TDS08</h3>
+        <h3 id="h3">Sistema Crud Em Array</h3>
     </center>
     <hr />
     <br />
