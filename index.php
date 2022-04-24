@@ -30,7 +30,7 @@
                         <label class="form-label">Nome</label><br />
                         <input type="text"  maxlength="38" name="nome" class="form-control" placeholder="Digite o seu nome" required /><br />
                         <label class="form-label">RG</label><br />
-                        <input type="number" max="1000000000" min="10000000" name="rg" class="form-control" placeholder="Digite o seu RG" required /><br />
+                        <input type="number"  min="10000000" max="1000000000" name="rg" class="form-control" placeholder="Digite o seu RG" required /><br />
                         <label class="form-label">Idade</label><br />
                         <input type="number" max="111" name="idade" class="form-control" placeholder="Digite a sua idade" required /><br />
                         
