@@ -32,7 +32,7 @@
                         <label class="form-label">RG</label><br />
                         <input type="number"  min="10000000" max="1000000000" name="rg" class="form-control" placeholder="Digite o seu RG" required /><br />
                         <label class="form-label">Idade</label><br />
-                        <input type="number" max="111" name="idade" class="form-control" placeholder="Digite a sua idade" required /><br />
+                        <input type="number" max="122" name="idade" class="form-control" placeholder="Digite a sua idade" required /><br />
                         
                         <button type="submit" class="btn btn-outline-secondary" name="btgravar" id="btgravar">Gravar <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-save2" viewBox="0 0 16 16">
   <path d="M2 1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H9.5a1 1 0 0 0-1 1v4.5h2a.5.5 0 0 1 .354.854l-2.5 2.5a.5.5 0 0 1-.708 0l-2.5-2.5A.5.5 0 0 1 5.5 6.5h2V2a2 2 0 0 1 2-2H14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h2.5a.5.5 0 0 1 0 1H2z"/>
